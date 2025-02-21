@@ -16,7 +16,7 @@ http://localhost:8090/producto?cod=101
 
 ## Alta de producto
 ### Method POST
-http://localhost:8088/alta
+http://localhost:8090/alta
 
 ```
 {
