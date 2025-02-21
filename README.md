@@ -4,7 +4,7 @@
 ### Method GET
 http://localhost:8090/productos
 
-![Postman]([Link URL](https://github.com/jambrocio/03_microservicio_crud_productos_reactivo/blob/main/Configurar%20Postman%20para%20peticiones%20reactivas.png?raw=true))  
+![Postman]([Link URL](https://github.com/jambrocio/03_microservicio_crud_productos_reactivo/blob/main/Configurar%20Postman%20para%20peticiones%20reactivas.png))  
 
 ## Buscar por categoria
 ### Method GET
