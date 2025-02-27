@@ -34,4 +34,4 @@ http://localhost:8090/eliminar?cod=120
 
 ## Actualizar producto
 ### Method PUT
-http://localhost:8088/actualizar?cod=101&precio=5.5
+http://localhost:8090/actualizar?cod=101&precio=5.5
